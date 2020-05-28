@@ -55,8 +55,23 @@ This is some codes to improve my skills all projects are POC.
 
 Projects to made in 2020
 
-* [Projects ideas to 2020](/projects-idea.md)
-* [Clojure projects here](/)
+* Projects ideas to 2020 [here](/projects-idea.md)
+* Clojure projects here [here](/)
+
+* Data structure study python [here](https://github.com/xico-labs/data_structures_and_algorithms_py)
+* Data structure study clojure [here]()
+* Solved problems coding cracking interview clojure [here](https://github.com/xico-labs/cracking-coding-interview-solutions-clj)
+* Solved problems coding cracking intereview python [here](https://github.com/xico-labs/cracking-coding-interview-solutions-python)
+* Study about design patterns [here](https://github.com/xico-labs/design-patterns-and-solid)
+* Clojure experimentals POC [here](https://github.com/matheusfrancisco/clojure-guide-to-study)
+
+* Improve my frontends skills React [here](https://github.com/matheusfrancisco/react-studies)
+* Improve my frontends skills css [here](https://github.com/matheusfrancisco/simple-projects-frontend)
+
+* Test: mocks in python [here](https://github.com/matheusfrancisco/understand-mocks-stubs-spy-in-python)
+* Experimentals using python [here](https://github.com/matheusfrancisco/pycodes)
+* POC with tornado [here](https://github.com/matheusfrancisco/server-with-tornado-and-sqlalchemy)
+
 
 ------------------------
 
@@ -65,7 +80,6 @@ Projects made in 2018-19
 
 * Learning about Django with testing [here](https://github.com/matheus-francisco/testing-using-Django/tree/master/budgetproject)
 * Using OSM GRAPH to plot distance beteween multiple points POC [here](https://github.com/matheusfrancisco/OSM_GRAPH_DIJKSTRA)
-* Experimentals using python [WIP]
 * System to appointment services [here](https://github.com/matheusfrancisco/backend-appointment-app)
 * Learning how to using torando build a simple crud POC [here](https://github.com/matheusfrancisco/server-with-tornado-and-sqlalchemy)
 * Learning about design patterns in python [here](https://github.com/matheusfrancisco/design-patterns-python)
@@ -74,7 +88,6 @@ Projects made in 2018-19
 * Create a system to sell apartments basics.. POC [here](https://github.com/matheusfrancisco/air-ap-django)
 * My golang study [here](https://github.com/matheusfrancisco/my-codes-to-sudy-golang)
 * Build a simple application with TDD [here](https://github.com/matheusfrancisco/tdd-with-python)
-* Experimental with Clojure POC [WIP]
 * File System Ext3 Simulate POC [here](https://github.com/matheusfrancisco/file-system-ext3)
 * ARM Cortex M3 implementation libs to ARM [here](https://github.com/matheusfrancisco/arm-Cortex-M3)
 * Real Time Embedded Systems [here](https://github.com/matheusfrancisco/Real-Time-Embedded-Systems)
