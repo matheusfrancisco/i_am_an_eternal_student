@@ -1,8 +1,8 @@
 # My Roadmap to self improvement
 
-This is my roadmap to self improvement, I will  improve these topics more next year.
+This is my roadmap to self improvement, I will  improve these topics.
 
-I will try to document all in my blog [matheusfrancisco](matheusfranciso.com.br).
+I will try to document all in my blog [matheusfrancisco](matheusfranciso.com.br) and youtube [channel](https://www.youtube.com/channel/UCF2kYwHZ8oaMLetO5icB38g?view_as=subscriber)
 
 
 ## Subjects
@@ -11,14 +11,16 @@ These are my current study topics.
 
 #### Theoretical topics
 
-* Software Architecture ( Patterns, DDD, Microservices ... )
+* Software Architecture ( Patterns, DDD, Microservices,  )
 * Test: unit, integration
 * Test driven development
 * RestAPI Architecture
-* Algorithm Complexity
-* NP-complete problems
-* Dynamic Programming
+
 * Data Structures
+* Algorithm Complexity
+  * Dynamic Programming
+  * NP-complete problems
+
 * Machine Learning
 * Artificial Intelligence
 * Git
@@ -30,30 +32,30 @@ These are my current study topics.
 
 ## Books
 
-My list of Books for 2020 [link-to-book-roadmap](https://www.matheusfrancisco.com.br/roadmap/my-book-list/)
 
 * [x] Clean Code
+* [ ] Clean Architecture
 * [x] Test Drive Developemnt - Kent Beck
 * [ ] Refactoring (WIP)
 * [x] Clojure for the Brave and true
 * [ ] Cracking coding interview (WIP)
+* [ ] Domain drive design (WIP)
+* [ ] Design Patterns
+* [ ] Joy of Clojure (WIP)
+* [ ] Python Fluent (WIP)
 
-
-## My favorite podcasts
-
-* List [podcasts](/podcast-list.md)
+send me recomendation: m@matheusfrancisco.com.br
 
 
 ## Projects
 
-This is some codes to improve my skills.
+This is some codes to improve my skills all projects are POC.
 
 -----------------
 
 Projects to made in 2020
 
 * [Projects ideas to 2020](/projects-idea.md)
-* Django guide projects - [here](/)
 * [Clojure projects here](/)
 
 ------------------------

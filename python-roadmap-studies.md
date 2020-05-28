@@ -1,8 +1,8 @@
 # Python Studies
 
-We will follow these books to study and use TDD to develop our code :
+We will follow these books to study and use TDD to develop our code
 
-### Books
+## Books
 
 * Learning Python - Mark Lutz
 * Fluent Python - Luciano Ramalho
@@ -11,16 +11,12 @@ We will follow these books to study and use TDD to develop our code :
 
 ## Projects
 
-* Api fights
-* Find new ideas
-* Api Rest to appintment meetup
-* Api Rest to like FunRetro
-* Lib to use git
-* Api rest django
+I will put links here to my python projects..
+
 
 ## Summary
 
-I will be skill de basics topics and start by itermediate
+I will start from basics until intermediate
 
 - [x] Modules
     - [x] Modules Basics, Packeges and Advanced Modulesdule Topics
@@ -31,10 +27,11 @@ I will be skill de basics topics and start by itermediate
 - [x] Operator Overloading
 - [x] Exceptions
     - [x] Exceptions Basics
-    - [ ] Designing with Exceptions
-- [ ] Managed Attributes
+    - [x] Designing with Exceptions
+- [x] Managed Attributes
 - [x] Decorators
-- [ ] Metaclasses
+- [x] Metaclasses
+- [ ] Advanced metaclasses concepts
 
 
 
